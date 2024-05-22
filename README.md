@@ -37,7 +37,7 @@ Based on the analysis, the following recommendations can be made to improve road
 •	The dataset does not include detailed information on external factors such as weather conditions or traffic volume.
 
 # References
-- Dataset : [Link]
-- Dashboard : [Link]
+- Dataset : [Link](https://github.com/gayatrikuracha/Road-Accident-Analysis/blob/main/Road%20accident%20data%20COMPRESSED.zip)
+- Dashboard : [Link](https://github.com/gayatrikuracha/Road-Accident-Analysis/blob/main/road%20accident%20dashboard%20compressed.zip)
 - UK Road Accident wikipedia : [Link](https://en.wikipedia.org/wiki/Reported_Road_Casualties_Great_Britain)
   
